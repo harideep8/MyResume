@@ -1,0 +1,31 @@
+#im
+{
+	width:200px;
+	height:200px;
+	margin:20px;
+	padding:20px;
+}
+#log
+{
+	width:200px;
+	height:200px;
+	margin:20px;
+	padding:20px;
+	float:right;
+}
+.Resume
+{
+	/*background-color: pink;*/
+}
+#Details,tr,td,th
+{
+	border:1px solid black;
+	border-collapse: collapse;
+	padding:15px;
+}
+#CI,#CO,#ED,#TC,#AI,#SS,#AAC,#CCA,#PLT,#PI,#Dec
+{
+	text-align: left;
+	color:white;
+	background-color: black;
+}
